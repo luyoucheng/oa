@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="oa_bis" />
+        <module name="oa_biz" />
         <module name="oa_dao" />
         <module name="oa_web" />
       </profile>
